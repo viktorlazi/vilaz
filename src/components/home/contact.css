@@ -1,0 +1,23 @@
+.homeContact{
+    background-color: black;
+    color:white;
+
+    display:block;
+    width:100vw;
+}
+.homeContact ul{
+    list-style-type: none;
+    display:flex;
+
+    padding: 0.5em;
+}
+.homeContact ul li{
+    display:flex;
+    box-sizing: border-box;
+    padding: 0 2em;
+}
+
+.homeContact ul li i{
+    color:white;
+    padding-right:5px;
+}
